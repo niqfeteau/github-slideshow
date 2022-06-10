@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You either die a hero or you live long enough to see yourself become the villain.
 Use the left arrow to go back!
